@@ -1,0 +1,28 @@
+{
+  "name": "premier-projet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "calendar": "tsx scripts/calendar.ts"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "googleapis": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.2.1",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
