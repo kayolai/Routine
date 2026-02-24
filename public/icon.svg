@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fond carré arrondi violet (couleur principale de l'app) -->
+  <rect width="512" height="512" rx="112" fill="#7c3aed"/>
+  <!-- Checkmark blanc minimaliste -->
+  <polyline
+    points="112,256 216,364 400,148"
+    fill="none"
+    stroke="white"
+    stroke-width="56"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
